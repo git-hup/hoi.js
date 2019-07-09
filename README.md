@@ -1,5 +1,5 @@
 # Hoi.JS
-![oepsie afbeeldingkje doet het niet](https://i.ibb.co/jbR3STZ/hoi.png);
+![oepsie afbeeldingkje doet het niet](https://i.ibb.co/jbR3STZ/hoi.png)!
 
 #Over Hoi.JS
 Hoi.JS is een zeer geavanceerd JS framework waarmee u allerlei diverse functies kunt uitvoeren. Zowel frotend als backend, zowel websites als applicaties en zowel simpel als zeer geavanceerd: met Hoi.JS is het mogelijk
